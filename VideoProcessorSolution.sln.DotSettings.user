@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="W:\Cloud\PartCloud\Универ\69. ИО Зотин\VideoProcessor\libs\NReco.VideoInfo.dll" /&gt;&#xD;
+  &lt;Assembly Path="W:\Cloud\PartCloud\Универ\69. ИО Зотин\VideoProcessor\libs\AForge.Video.dll" /&gt;&#xD;
+  &lt;Assembly Path="W:\Cloud\PartCloud\Универ\69. ИО Зотин\VideoProcessor\packages\DirectShowLib.1.0.0\lib\DirectShowLib.dll" /&gt;&#xD;
+  &lt;Assembly Path="W:\Cloud\PartCloud\Универ\69. ИО Зотин\VideoProcessor\libs\Splicer.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.dll" /&gt;&#xD;
+  &lt;Assembly Path="W:\Cloud\PartCloud\Универ\69. ИО Зотин\VideoProcessor\libs\AForge.Controls.dll" /&gt;&#xD;
+  &lt;Assembly Path="W:\Cloud\PartCloud\Универ\69. ИО Зотин\VideoProcessor\libs\AForge.Imaging.dll" /&gt;&#xD;
+  &lt;Assembly Path="W:\Cloud\PartCloud\Универ\69. ИО Зотин\VideoProcessor\libs\Emgu.CV.World.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
